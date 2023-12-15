@@ -4,6 +4,7 @@
 
 - Hands-on - Project [Pizza-Menu](https://js-react-pizza-menu.netlify.app/)🔗
 - Hands-on - Project [Steps](https://js-react-steps.netlify.app/)🔗
+- Hands-on - Project [Travel-List](https://js-react-travel-list.netlify.app/)🔗
 
 ---
 
